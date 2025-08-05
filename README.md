@@ -1,5 +1,5 @@
 [![DOI](https://zenodo.org/badge/452388873.svg)](https://doi.org/10.5281/zenodo.15871796)
-![Visitors Badge](https://visitor-badge.laobi.icu/badge?page_id=RuiGao9.Group_Materials)<br>
+![Visitors Badge](https://visitor-badge.laobi.icu/badge?page_id=RuiGao9.Data_Auto_Transfer)<br>
 
 # Data_Auto_Transfer
 ## A Python Tool for Data Transfering from the SD Card to Your Field Computer - Data_Auto_Transfer
@@ -32,7 +32,7 @@ If you use this repository in your work, please cite it using the following DOI:
 ```bibtex
 @misc{gao2025apogee,
   author       = {Rui Gao, Mohammad Safeeq, and Joshua H. Viers},
-  title        = {A Python Tool for Apogee IRT Sensor Footprint Generation and Georeferencing – Apogee_IRT_Footprint},
+  title        = {A Python Tool for Data Transfering from the SD Card to Your Field Computer - Data_Auto_Transfer},
   year         = {2025},
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.16581912},
@@ -40,8 +40,8 @@ If you use this repository in your work, please cite it using the following DOI:
 }
 ```
 ## Repository update information:
-- **Creation date:** 2025-07-11
-- **Last update:** 2025-07-29
+- **Creation date:** 2025-08-05
+- **Last update:** 2025-08-05
 
 ## Contact information if issues were found:
 Rui Gao<br>
