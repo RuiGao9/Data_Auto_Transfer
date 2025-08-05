@@ -35,7 +35,7 @@ If you use this repository in your work, please cite it using the following DOI:
 
 **BibTeX:**
 ```bibtex
-@misc{gao2025apogee,
+@misc{gao2025autodata,
   author       = {Rui Gao, Mohammad Safeeq, and Joshua H. Viers},
   title        = {A Python Tool for Data Transfering from the SD Card to Your Field Computer - Data_Auto_Transfer},
   year         = {2025},
