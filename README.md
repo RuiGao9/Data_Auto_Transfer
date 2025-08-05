@@ -21,10 +21,11 @@ This utility enables efficient and reliable data acquisition directly in the fie
 ## Document description
 In this repository, we have three documents:
 1. transfer.py – All the process are programed here. 
-2. main.ipynb – This Jupyter Notebook allows users to adjust input parameters as needed. After modifying the parameters, simply click `run` to generate results, which will be saved in the designated output folder. Three parameters are described below:
+2. main.ipynb – This Jupyter Notebook allows users to adjust input parameters as needed. After modifying the parameters, simply click `run` to generate results, which will be saved in the designated output folder. Three parameters are described below.
     - `source`: where the data comes from.
     - `destination`: where the data will be saved. 
-    - `days`: specifies the number of days of data you want to extract.
+    - `days`: specifies the number of days of data you want to extract.<br>
+    A document named `main.py` is also provided, which has the same function.
 3. README.md - which can help you to understand this repository.
 
 ## Citation
